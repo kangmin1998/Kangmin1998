@@ -6,7 +6,15 @@
 
 <img src="https://github.com/kangmin1998/Kangmin1998/blob/main/back.jpg" width="30%" height="30%" title="20px" alt="RubberDuck"></img>
 
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![js]()
+![js]()
+![js]()
+![js]()
 
 <!--
 **kangmin1998/Kangmin1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
