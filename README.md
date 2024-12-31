@@ -1,6 +1,6 @@
 ## 안녕하세요👋
 
-#### 프론트엔드, 백엔드 관련 자료 입니다.
+#### **프론트엔드, 백엔드** 관련 자료 입니다.
 
 <!--
 **kangmin1998/Kangmin1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
