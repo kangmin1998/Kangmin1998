@@ -6,6 +6,8 @@
 
 <img src="https://github.com/kangmin1998/Kangmin1998/blob/main/back.jpg" width="30%" height="30%" title="20px" alt="RubberDuck"></img>
 
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 <!--
 **kangmin1998/Kangmin1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
