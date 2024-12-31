@@ -1,8 +1,10 @@
 ## 안녕하세요👋
 
+#### 개발자의 꿈을 키우는
+
 #### **프론트엔드, 백엔드** 학습실 입니다.
 
-
+<img src="[/path/to/img.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jobindexworld.com%2Fcontents%2Fview%2F5767&psig=AOvVaw2Pu_l4XZK8qwnd9MocbM7T&ust=1735711656870000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjNq_6r0YoDFQAAAAAdAAAAABAE)" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 <!--
 **kangmin1998/Kangmin1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
