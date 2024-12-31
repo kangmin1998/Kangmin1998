@@ -4,7 +4,7 @@
 
 #### **프론트엔드, 백엔드** 학습실 입니다.
 
-<img src="https://github.com/kangmin1998/Kangmin1998/blob/main/back.jpg" width="40%" height="40%" title="10px" alt="RubberDuck"></img>
+<img src="https://github.com/kangmin1998/Kangmin1998/blob/main/back.jpg" width="30%" height="30%" title="20px" alt="RubberDuck"></img>
 
 <!--
 **kangmin1998/Kangmin1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
